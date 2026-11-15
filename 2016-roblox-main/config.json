@@ -22,8 +22,8 @@
         "catalogDetailsPageOwnersTabEnabled": true,
         "launchUsingEsURI": true
       },
-      "baseUrl": "https://your.domain/",
-      "apiFormat": "https://your.domain/apisite/{0}{1}"
+      "baseUrl": "https://te23.pages.dev/",
+      "apiFormat": "https://te23.pages.dev/apisite/{0}{1}"
     }
   }
 }
